@@ -3,12 +3,12 @@
 
 Mods incorperated so far:
 
-#Optimization
+# Optimization
 FastWorkBench
 FastFurnace
 
 
-#QoL
+# QoL
 Polymorph
 Fast Leaf Decay
 ReAuth
@@ -23,7 +23,7 @@ Mod Name Tooltip
 Ding
 
 
-#Core/Depenant
+# Core/Depenant
 Forge
 Mantle
 CraftTweaker
@@ -32,7 +32,7 @@ AttributeFix
 ForgeEndertech
 
 
-#Content
+# Content
 Create
 CC: Tweaked
 More Red
@@ -49,7 +49,7 @@ Pane In The Glass
 Straw Golem Reborn
 
 
-#World Gen
+# World Gen
 Large Ore Deposits
 TerraForged
 Towers Of The Wild
