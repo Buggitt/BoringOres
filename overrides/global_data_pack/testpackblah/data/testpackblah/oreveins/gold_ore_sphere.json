@@ -3,7 +3,7 @@
   "inverted": false,
   "shape": 0.5,
   "uniform":true,
-  "ore": "minecraft:white_wool",
+  "ore": "minecraft:gold_ore",
   "stone": [
             {"block": "#forge:stone"},
             {"block": "create:natural_scoria"}
@@ -20,7 +20,7 @@
 
   "indicator":{
     "rarity": 250,
-    "blocks": "minecraft:white_wool",
+    "blocks": "minecraft:gold_ore",
     "max_depth": 100,
     "replace_surface": true
   }
