@@ -1,0 +1,10 @@
+
+#Common configuration settings
+[common]
+
+	#Structures
+	[common.structures]
+		#The chance for a greenhouse to generate. This value is interpreted as "1 out of X" to generate a greenhouse.
+		#Range: > 1
+		greenhouseGenerateChance = 25
+

@@ -1,0 +1,13 @@
+
+#Planes settings
+[general]
+	#planes crash on bad landings
+	planeCrush = false
+	#easier flight mode
+	easyFlight = true
+	#Ticks of flying per one coal (furnace planes)
+	#Range: > 0
+	flyTicksPerCoal = 600
+	#can players steal planes
+	plane_heist = true
+
