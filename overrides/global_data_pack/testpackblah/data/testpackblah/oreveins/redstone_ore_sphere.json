@@ -1,0 +1,29 @@
+{
+  "type": "sphere",
+  "inverted": false,
+  "shape": 0.5,
+  "uniform":true,
+  "ore": "minecraft:redstone_ore",
+  "stone": [
+            {"block": "#forge:stone"},
+            {"block": "create:natural_scoria"}
+            ],
+
+  "min_y": 16,
+  "max_y": 170,
+
+  "vertical_size": 100,
+  "horizontal_size": 25,
+
+  "rarity": 2400,
+  "density": 1000,
+
+  "indicator":{
+    "rarity": 250,
+    "blocks": "minecraft:redstone_ore",
+    "max_depth": 100,
+    "replace_surface": true
+  }
+
+
+}
