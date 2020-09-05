@@ -4,7 +4,7 @@
 	#planes crash on bad landings
 	planeCrush = false
 	#easier flight mode
-	easyFlight = true
+	easyFlight = false
 	#Ticks of flying per one coal (furnace planes)
 	#Range: > 0
 	flyTicksPerCoal = 600

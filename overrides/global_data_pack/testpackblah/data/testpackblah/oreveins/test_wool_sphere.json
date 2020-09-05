@@ -1,19 +1,18 @@
 {
-  "type": "sphere",
+  "type": "cone",
   "inverted": false,
-  "shape": 0.5,
-  "uniform":true,
+
   "ore": "minecraft:white_wool",
   "stone": [
             {"block": "#forge:stone"},
             {"block": "create:natural_scoria"}
             ],
 
-  "min_y": 16,
-  "max_y": 170,
+  "min_y": 7,
+  "max_y": 70,
 
-  "vertical_size": 100,
-  "horizontal_size": 25,
+  "vertical_size": 40,
+  "horizontal_size": 40,
 
   "rarity": 2400,
   "density": 1000,

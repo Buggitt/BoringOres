@@ -229,3 +229,4 @@
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
 		spawnChance = 6
+
