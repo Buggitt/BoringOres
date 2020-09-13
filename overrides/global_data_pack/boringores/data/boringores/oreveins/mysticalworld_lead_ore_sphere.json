@@ -1,0 +1,38 @@
+{
+  "type": "cone",
+  "inverted": false,
+
+  "ore": "mysticalworld:lead_ore",
+  "stone": [
+            {"block": "#forge:stone"},
+            {"block": "create:natural_scoria"}
+            ],
+
+            "min_y": 7,
+            "max_y": 70,
+
+            "vertical_size": 40,
+            "horizontal_size": 40,
+
+            "rarity": 24000,
+  "density": 1000,
+
+  "indicator":{
+    "rarity": 250,
+    "blocks": "mysticalworld:lead_ore",
+    "max_depth": 100,
+    "replace_surface": true
+  },
+  "biomes": {
+    "type": "not",
+    "biomes": [
+      "minecraft:ocean",
+      "minecraft:deep_ocean",
+      "terraforged:lake",
+      "minecraft:river"
+
+    ]
+  }
+
+
+}
